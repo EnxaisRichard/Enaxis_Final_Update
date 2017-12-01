@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage 
+	xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    prism:ViewModelLocator.AutowireViewModel="True"
+	xmlns:local="clr-namespace:DevonApp3.Views;assembly=DevonApp3"
+    x:Class="DevonApp3.Views.MainPage"
+    BackgroundImage="devonlogo.png"
+    Title="Main">
+
+
+  
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Image Source="bg"></Image>
+        <Label Text="Welcome! Please Login." VerticalOptions="Center" TextColor="White" HorizontalOptions="Center"   />
+		          <Button Text="Quick PI Readings" Command="{Binding Path=NavigateCommand}" CommandParameter="RequestAccess" />
+          <Button Text="Login" Command="{Binding Path=NavigateAbsoluteCommand}" CommandParameter="/Summary/NavigationPage/Analytics" />
+	  </StackLayout>
+    
+
+</ContentPage>
+

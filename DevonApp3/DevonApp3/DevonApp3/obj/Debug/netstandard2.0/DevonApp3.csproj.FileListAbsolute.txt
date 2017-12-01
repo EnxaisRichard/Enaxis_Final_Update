@@ -1,0 +1,15 @@
+C:\repo\DevonApp3\DevonApp3\DevonApp3\bin\Debug\netstandard2.0\DevonApp3.deps.json
+C:\repo\DevonApp3\DevonApp3\DevonApp3\bin\Debug\netstandard2.0\DevonApp3.dll
+C:\repo\DevonApp3\DevonApp3\DevonApp3\bin\Debug\netstandard2.0\DevonApp3.pdb
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.csproj.CoreCompileInputs.cache
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.App.xaml.g.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.Views.Alert.xaml.g.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.Views.Analytics.xaml.g.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.Views.Contacts.xaml.g.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.Views.MainPage.xaml.g.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.Views.RequestAccess.xaml.g.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.Views.Summary.xaml.g.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.AssemblyInfoInputs.cache
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.AssemblyInfo.cs
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.dll
+C:\repo\DevonApp3\DevonApp3\DevonApp3\obj\Debug\netstandard2.0\DevonApp3.pdb
